@@ -1,0 +1,14 @@
+package com.ssafy.di3;
+
+import java.util.Scanner;
+
+public class Test {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		Programmer p = new Programmer();
+		// 그냥 만들면 에러 -> Programmer에서 기본생성자 만들어줘야 함 
+		
+
+	}
+}
